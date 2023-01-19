@@ -1,3 +1,7 @@
+# Lista de Compras
+# O programa executa um menu com opções para inserir, apagar ou listar itens na sua lista de compras,
+# também possui a opção de sair do programa caso desejar.
+
 import os
 import platform
 
